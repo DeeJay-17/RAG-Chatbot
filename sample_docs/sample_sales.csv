@@ -1,0 +1,13 @@
+order_id,order_date,region,product,units,unit_price,discount_pct,customer_segment
+O1001,2025-01-03,West,Widget,10,199.99,5,Consumer
+O1002,2025-01-04,East,Gadget,4,499.50,0,Corporate
+O1003,2025-01-05,North,Widget,2,199.99,10,Home Office
+O1004,2025-01-06,South,Doohickey,7,149.00,0,Consumer
+O1005,2025-01-07,West,Gadget,1,499.50,15,Consumer
+O1006,2025-01-08,East,Widget,8,199.99,0,Corporate
+O1007,2025-01-09,North,Doohickey,3,149.00,5,Home Office
+O1008,2025-01-10,South,Widget,6,199.99,0,Consumer
+O1009,2025-01-11,West,Doohickey,5,149.00,0,Corporate
+O1010,2025-01-12,East,Gadget,2,499.50,20,Consumer
+O1011,2025-01-13,North,Widget,9,199.99,0,Consumer
+O1012,2025-01-14,South,Gadget,3,499.50,0,Home Office

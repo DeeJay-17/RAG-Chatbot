@@ -1,0 +1,14 @@
+{
+    "overall_description": "Website traffic and session-level analytics data. Each row represents a user session with traffic source, device, engagement metrics, conversion outcome, and geographic region. Suitable for funnel analysis, conversion rates, averages, and breakdowns by source or device.",
+    "columns": [
+      { "column": "session_id", "data_type": "string", "description": "Unique website session identifier." },
+      { "column": "session_date", "data_type": "date", "description": "Session date in YYYY-MM-DD format." },
+      { "column": "traffic_source", "data_type": "string", "description": "Traffic acquisition source (Organic/Paid Search/Referral/Social)." },
+      { "column": "device_type", "data_type": "string", "description": "Device used for the session (Desktop/Mobile/Tablet)." },
+      { "column": "page_views", "data_type": "integer", "description": "Number of pages viewed during the session." },
+      { "column": "session_duration", "data_type": "integer", "description": "Session duration in seconds." },
+      { "column": "conversion", "data_type": "boolean", "description": "Whether the session resulted in a conversion." },
+      { "column": "region", "data_type": "string", "description": "Geographic region of the user." }
+    ]
+  }
+  

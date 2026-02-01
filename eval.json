@@ -1,0 +1,56 @@
+
+
+{
+  "k": 5,
+  "queries": [
+   {
+        "query": "What is hybrid deployment?",
+        "doc_id": "98bfe406-08cf-4fa1-be33-70bcb767557f",
+        "relevant_chunk_ids": [
+            "98bfe406-08cf-4fa1-be33-70bcb767557f:header_md:14",
+            "98bfe406-08cf-4fa1-be33-70bcb767557f:fixed_tokens:25"
+        ]
+
+        },
+    {
+      "query": "What is Amazon Athena?",
+      "doc_id": "98bfe406-08cf-4fa1-be33-70bcb767557f",
+      "relevant_chunk_ids": [
+            "98bfe406-08cf-4fa1-be33-70bcb767557f:header_md:21",
+            "98bfe406-08cf-4fa1-be33-70bcb767557f:fixed_tokens:35"
+      ]
+    },
+    {
+      "query": "What is the use of AWS Migration Hub?",
+      "doc_id": "98bfe406-08cf-4fa1-be33-70bcb767557f",
+      "relevant_chunk_ids": [
+        "98bfe406-08cf-4fa1-be33-70bcb767557f:header_md:207",
+        "98bfe406-08cf-4fa1-be33-70bcb767557f:fixed_tokens:293"
+      ]
+    },
+    {
+      "query": "What are the Mitigation points for LLM-powered products?",
+      "doc_id": "58dbb264-c7a8-4732-8bff-8c14b129b46f",
+      "relevant_chunk_ids": [
+        "58dbb264-c7a8-4732-8bff-8c14b129b46f:header_md:3",
+        "58dbb264-c7a8-4732-8bff-8c14b129b46f:fixed_tokens:5"
+      ]
+    },
+    {
+      "query": "What do you mean by Model-level alignment?",
+      "doc_id": "58dbb264-c7a8-4732-8bff-8c14b129b46f",
+      "relevant_chunk_ids": [
+        "58dbb264-c7a8-4732-8bff-8c14b129b46f:header_md:9",
+        "58dbb264-c7a8-4732-8bff-8c14b129b46f:fixed_tokens:14"
+      ]
+    },
+    {
+      "query": "How to Mitigate risks at the input level?",
+      "doc_id": "58dbb264-c7a8-4732-8bff-8c14b129b46f",
+      "relevant_chunk_ids": [
+        "58dbb264-c7a8-4732-8bff-8c14b129b46f:header_md:14",
+        "58dbb264-c7a8-4732-8bff-8c14b129b46f:fixed_tokens:26"
+      ]
+    }
+  ]
+}

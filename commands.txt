@@ -1,0 +1,7 @@
+chroma run --host 0.0.0.0 --port 8000 --path ./chroma_data
+
+uvicorn main:app --host 0.0.0.0 --port 8001 --reload
+
+streamlit run streamlit_app.py
+
+Overview of the AWS Cloud platform, documenting definitions and use cases for all major AWS services and solutions.

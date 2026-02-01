@@ -1,0 +1,14 @@
+{
+    "overall_description": "Employee performance review data. Each row represents a performance snapshot for an employee including department, role, workload, ratings, and employment type. Useful for aggregations, averages, comparisons, and trend analysis by department or role.",
+    "columns": [
+      { "column": "employee_id", "data_type": "string", "description": "Unique employee identifier." },
+      { "column": "review_date", "data_type": "date", "description": "Performance review date in YYYY-MM-DD format." },
+      { "column": "department", "data_type": "string", "description": "Department name (Engineering/Sales/HR/Marketing)." },
+      { "column": "role", "data_type": "string", "description": "Employee job role." },
+      { "column": "projects_completed", "data_type": "integer", "description": "Number of projects completed during the review period." },
+      { "column": "avg_rating", "data_type": "float", "description": "Average performance rating (1.0–5.0)." },
+      { "column": "hours_worked", "data_type": "integer", "description": "Total hours worked in the review period." },
+      { "column": "employment_type", "data_type": "string", "description": "Employment type (Full-Time/Contract)." }
+    ]
+  }
+  

@@ -1,0 +1,14 @@
+{
+  "overall_description": "Synthetic sales transactions data for testing SQL generation. Each row is an order line with region, product, units, pricing, and discount percentage. Use this to compute revenue, averages, totals, and breakdowns by region/product/segment/date.",
+  "columns": [
+    { "column": "order_id", "data_type": "string", "description": "Unique order identifier." },
+    { "column": "order_date", "data_type": "date", "description": "Order date in YYYY-MM-DD format." },
+    { "column": "region", "data_type": "string", "description": "Sales region (North/East/South/West)." },
+    { "column": "product", "data_type": "string", "description": "Product name (Widget/Gadget/Doohickey)." },
+    { "column": "units", "data_type": "integer", "description": "Number of units sold." },
+    { "column": "unit_price", "data_type": "float", "description": "Price per unit before discount." },
+    { "column": "discount_pct", "data_type": "float", "description": "Discount percentage applied (0-100)." },
+    { "column": "customer_segment", "data_type": "string", "description": "Customer segment (Consumer/Corporate/Home Office)." }
+  ]
+}
+

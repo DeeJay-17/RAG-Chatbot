@@ -1,0 +1,11 @@
+session_id,session_date,traffic_source,device_type,page_views,session_duration,conversion,region
+S3001,2025-01-03,Organic,Desktop,6,420,true,North America
+S3002,2025-01-04,Paid Search,Mobile,4,300,false,Europe
+S3003,2025-01-05,Referral,Desktop,8,540,true,Asia
+S3004,2025-01-06,Organic,Tablet,5,360,false,North America
+S3005,2025-01-07,Social,Mobile,3,210,false,Europe
+S3006,2025-01-08,Paid Search,Desktop,7,480,true,Asia
+S3007,2025-01-09,Organic,Mobile,4,330,true,North America
+S3008,2025-01-10,Referral,Desktop,9,600,true,Europe
+S3009,2025-01-11,Social,Mobile,2,180,false,Asia
+S3010,2025-01-12,Organic,Desktop,6,450,true,North America

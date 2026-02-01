@@ -1,0 +1,50 @@
+{
+  "overall_description": "Employee compensation data. Each row represents compensation details for an employee including salary, bonuses, equity, performance band, and basic contact information. Intended for testing SQL JOINs, compensation analysis, PII masking, and correlations between performance and pay.",
+  "columns": [
+    {
+      "column": "employee_id",
+      "data_type": "string",
+      "description": "Unique employee identifier."
+    },
+    {
+      "column": "employee_name",
+      "data_type": "string",
+      "description": "Full name of the employee."
+    },
+    {
+      "column": "email_id",
+      "data_type": "string",
+      "description": "Employee email address."
+    },
+    {
+      "column": "effective_date",
+      "data_type": "date",
+      "description": "Date from which the compensation details are effective (YYYY-MM-DD)."
+    },
+    {
+      "column": "base_salary",
+      "data_type": "integer",
+      "description": "Annual base salary amount."
+    },
+    {
+      "column": "bonus",
+      "data_type": "integer",
+      "description": "Annual performance bonus amount."
+    },
+    {
+      "column": "stock_options",
+      "data_type": "integer",
+      "description": "Number of stock options granted."
+    },
+    {
+      "column": "performance_band",
+      "data_type": "string",
+      "description": "Compensation performance band (Excellent/Good/Average)."
+    },
+    {
+      "column": "currency",
+      "data_type": "string",
+      "description": "Currency of compensation values."
+    }
+  ]
+}

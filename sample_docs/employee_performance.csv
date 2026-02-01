@@ -1,0 +1,11 @@
+employee_id,review_date,department,role,projects_completed,avg_rating,hours_worked,employment_type
+E2001,2025-01-05,Engineering,Backend Developer,5,4.6,160,Full-Time
+E2002,2025-01-06,Engineering,Frontend Developer,4,4.2,152,Full-Time
+E2003,2025-01-07,HR,HR Manager,3,4.8,168,Full-Time
+E2004,2025-01-08,Sales,Sales Executive,6,4.1,170,Contract
+E2005,2025-01-09,Marketing,Content Strategist,4,4.5,158,Full-Time
+E2006,2025-01-10,Engineering,Data Engineer,5,4.7,165,Full-Time
+E2007,2025-01-11,Sales,Account Manager,7,4.3,172,Full-Time
+E2008,2025-01-12,Marketing,SEO Specialist,3,4.0,150,Contract
+E2009,2025-01-13,HR,Recruiter,6,4.4,162,Full-Time
+E2010,2025-01-14,Engineering,DevOps Engineer,4,4.6,160,Full-Time
