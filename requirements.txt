@@ -19,3 +19,4 @@ pymupdf4llm
 google-genai
 presidio-analyzer
 presidio-anonymizer
+pyyaml

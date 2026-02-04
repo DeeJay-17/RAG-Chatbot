@@ -1,0 +1,13 @@
+.env
+
+myenv
+
+__pycache__
+
+.vscode
+
+uploads/
+
+chroma_data/
+
+test.ipynb
